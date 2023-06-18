@@ -1,0 +1,44 @@
+body{
+  background-color:lightgray
+}
+.App{
+  text-align: center;
+  background-color: aqua;
+}
+
+.login-form{
+margin-top:100px;
+border: 2px solid blue;
+padding:20px;
+display:inline-block;
+flex-direction:column;
+align-items:center;
+
+}
+.login-title{
+  border-bottom:2px solid neavy blue ;
+}
+
+.form-group{
+  margin-bottom:10px ;
+}
+.navbar-list{
+background-color: aqua;
+display:flex;
+list-style-type: none;
+justify-content: center;
+
+}
+
+.navbar-item{
+  color-scheme:dark blue;
+  margin:10px;
+
+}
+.navbar-link{
+  text-decoration:rgb(87, 120, 220);
+  color-scheme:blue;
+}
+.navbar-space {
+  margin:10px;
+}
